@@ -1,0 +1,1 @@
+Not sure if its exactly what you wanted but for the alias part, I just defined it normally but ran the script using "source main.sh" because I read online that this gives it its own defined session. I dont think thats exactly how we did it in class but I couldnt remember
